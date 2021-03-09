@@ -1,0 +1,157 @@
+@media screen and (max-width: 3840px){  /* 3840px X 2160px  */
+  img,iframe{
+	  max-width:100%;
+	  height:auto;
+  }
+}
+@media screen and (max-width: 2560px){  /*  2560px X 1600px  */
+  
+}
+
+
+@media screen and (max-width:1920px){   /*  1920px X 1080px  */
+  
+}
+
+@media screen and (max-width: 1800px){
+  
+}
+
+@media screen and (max-width: 1750px){
+
+}
+
+@media screen and (max-width: 1680px){  /*  1680px X 1050px  */
+
+}
+
+@media screen and (max-width: 1600px){   /*  1600px X 900px  */
+
+}
+
+@media screen and (max-width: 1540px){   /*  1540px X 800px  */
+	
+}
+
+@media screen and (max-width: 1520px){
+	
+}
+
+@media screen and (max-width: 1500px){
+
+}
+
+@media screen and (max-width: 1440px){
+
+}
+
+@media screen and (max-width: 1366px){   /*  1366px X 768px  */
+	
+}
+
+@media screen and (max-width: 1280px){
+
+}
+
+@media screen and (max-width: 1200px){
+
+}
+
+@media screen and (max-width: 1024px){   /*  1024px X 768px  */
+
+}
+@media only screen and (min-width : 801px) and (max-width : 1024px) {
+	
+}
+
+@media screen and (max-width: 800px){  /*  768px X 1024px  */
+
+.login-box {
+    width: 90%;
+}
+.login-box .col-right {
+    padding: 40px;
+    width: 100%;
+    float: none;
+    background: #fff;
+}
+.login-box .col-left {
+    width: 100%;
+    float: none;
+    min-height: 220px;
+}
+.well-box {
+    top: 67%;
+    width: 100%;
+    text-align: center;
+}
+.col-left .other-txt {
+    display: none;
+}
+.ci-logo {
+    top: 60px;
+}
+.login-box h2 {
+    font-size: 25px;
+    line-height: 26px;
+}
+.col-right .other-txt {
+    display: block;
+    position: relative;
+    top: unset;
+    left: unset;
+    bottom: unset;
+    right: unset;
+    margin-top: 25px;
+    width: 100%;
+    text-align: center;
+}
+.login-box .form-group input {
+    text-align: center;
+}
+
+}
+
+@media screen and (max-width: 800px) and (orientation: landscape) {
+	
+}
+
+@media screen and (max-width: 750px){   /*  736px X 414px  */
+
+}
+@media screen and (max-width: 750px) and (orientation: landscape) {
+	
+}
+
+@media screen and (max-width: 700px){   /*  667px X 375px  */
+
+}
+@media screen and (max-width: 650px){
+
+}
+@media screen and (max-width: 600px){   /*  568px X 320px  */
+
+}
+
+@media screen and (max-width: 600px) and (orientation: landscape) {
+	
+}
+
+@media screen and (max-width: 550px){
+
+}
+@media screen and (max-width: 500px){
+
+}
+@media screen and (max-width: 414px){    /*  414px X 660px  */
+
+}
+@media screen and (max-width: 400px){    /*  375px X 600px  */
+
+}
+@media screen and (max-width: 360px){
+
+}
+@media screen and (max-width: 320px){   /*  320px X 568px  */
+
+}
